@@ -1,0 +1,9 @@
+.search-bar {
+  
+  padding-top: 3px;
+  padding-bottom: 3px;
+  border-radius:6px;
+  display: block;
+  padding-left: 20pxpx;
+
+  }
