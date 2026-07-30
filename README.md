@@ -22,4 +22,4 @@ A simple YouTube clone built using HTML and CSS.
 
 ## Author
 
-Chandrasekhar
+chandrasekhar
